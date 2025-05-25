@@ -13,6 +13,6 @@ I am a Computer Science student from Indonesia <img src="https://media.giphy.com
 
 - :zap: I'm always open to collaborating on innovative data science or AI projects.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-joseph-handoyo/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-joseph-handoyo/)
 
 ---
