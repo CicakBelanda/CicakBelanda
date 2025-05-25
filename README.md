@@ -85,9 +85,6 @@ I am a Computer Science student from Indonesia <img src="https://media.giphy.com
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40" height="40" alt="Svelte"/><br>Svelte
     </td>
-    <td align="center" width="96">
-      <img src="https://libgdx.com/assets/images/logo.svg" width="40" height="40" alt="LibGDX"/><br>LibGDX
-    </td>
   </tr>
 </table>
 
