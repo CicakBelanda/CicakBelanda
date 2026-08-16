@@ -19,14 +19,15 @@ I'm a Computer Science student from Indonesia 🇮🇩 with a focus on **Data Sc
 
 I enjoy working across different stages of a project, from exploring and analyzing data to building machine learning models and integrating them into real-world applications.
 
-* 🔭 Currently focusing on **Data Science and Machine Learning**, especially classification, prediction, feature engineering, and model evaluation.
-* 🤖 Experienced with **Python, scikit-learn, Pandas, NumPy, and Jupyter** for data analysis and machine learning.
-* 📱 Developing native iOS applications using **Swift and SwiftUI**.
-* 🧠 Interested in **Computer Vision and On-Device Machine Learning**, particularly integrating ML models into mobile applications with **Core ML**.
-* 🛠️ Interested in building practical systems that combine **data, machine learning, and software development**.
-* 🚀 Always open to collaborating on **Data Science, Machine Learning, AI, and iOS projects**.
-* 🌐 Explore my portfolio on my [personal website](https://www.kevin-jo.com).
-* 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/kevin-joseph-handoyo/).
+- 🔭 Currently focusing on **Data Science and Machine Learning**, especially classification, prediction, feature engineering, and model evaluation.
+- 🤖 Experienced with **Python, scikit-learn, Pandas, NumPy, and Jupyter** for data analysis and machine learning.
+- 📱 Developing native iOS applications using **Swift and SwiftUI**.
+- 🧠 Interested in **Computer Vision and On-Device Machine Learning**, particularly integrating ML models into mobile applications with **Core ML**.
+- 🌐 Also experienced in building web applications using **JavaScript, SvelteKit, and Ruby on Rails**.
+- 🛠️ Interested in building practical systems that combine **data, machine learning, and software development**.
+- 🚀 Open to collaborating on **Data Science, Machine Learning, AI, iOS, and Web Development projects**.
+- 🌐 Explore my portfolio on my [personal website](https://www.kevin-jo.com).
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/kevin-joseph-handoyo/).
 
 ---
 
@@ -44,7 +45,7 @@ I enjoy working across different stages of a project, from exploring and analyzi
 
 ### 🛠️ Languages & Tools
 
-#### Data Science & Machine Learning
+#### 🐍 Data Science & Machine Learning
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
@@ -54,24 +55,32 @@ I enjoy working across different stages of a project, from exploring and analyzi
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/>
 </p>
 
-#### iOS & Apple Technologies
+#### 🍎 iOS & Apple Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45" height="45" alt="Swift"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="45" height="45" alt="Apple"/>
   <img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white" height="30" alt="SwiftUI"/>
   <img src="https://img.shields.io/badge/Core%20ML-000000?style=for-the-badge&logo=apple&logoColor=white" height="30" alt="Core ML"/>
   <img src="https://img.shields.io/badge/MapKit-000000?style=for-the-badge&logo=apple&logoColor=white" height="30" alt="MapKit"/>
+  <img src="https://img.shields.io/badge/CoreLocation-000000?style=for-the-badge&logo=apple&logoColor=white" height="30" alt="CoreLocation"/>
 </p>
 
-#### Programming & Development
+#### 🌐 Web Development
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="45" height="45" alt="Svelte"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="50" height="50" alt="Ruby on Rails"/>
+</p>
+
+#### 🗄️ Development & Database
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
 </p>
 
 ---
@@ -83,7 +92,7 @@ I enjoy working across different stages of a project, from exploring and analyzi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CicakBelanda&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CicakBelanda&layout=compact&theme=vision-friendly-dark&hide_progress=true&langs_count=8&card_width=400" alt="Top Languages"/>
 </p>
 
 ---
