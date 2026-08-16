@@ -4,11 +4,11 @@
 </h1>
 
 <h3 align="center">
-  Data Scientist · Machine Learning Engineer · iOS Developer
+  Data Science · Machine Learning · iOS Development
 </h3>
 
 <p align="center">
-  Building data-driven solutions and turning machine learning models into real applications.
+  Computer Science student focused on building practical, data-driven solutions and intelligent applications.
 </p>
 
 ---
@@ -17,136 +17,66 @@
 
 I'm a Computer Science student from Indonesia 🇮🇩 with a focus on **Data Science, Machine Learning, and iOS Development**.
 
-I enjoy working across the full journey of a project, from exploring data and building machine learning models to integrating those models into real-world applications.
+I enjoy working across different stages of a project, from exploring and analyzing data to building machine learning models and integrating them into real-world applications.
 
-- 🔭 I'm currently focusing on **Data Science and Machine Learning**, particularly classification, prediction, feature engineering, and model evaluation.
-- 🤖 I have experience building ML solutions with **Python, scikit-learn, Pandas, NumPy, and Jupyter**.
-- 📱 I develop native iOS applications using **Swift and SwiftUI**, including applications that integrate machine learning and computer vision models.
-- 🧠 I'm particularly interested in **on-device machine learning**, using technologies such as **Core ML** to bring ML capabilities directly into mobile applications.
-- 🛠️ I enjoy building practical projects that combine **data, machine learning, and software development** rather than treating them as separate disciplines.
-- 🚀 Some of my projects include **HoMoold**, an indoor mold detection and risk assessment application, **Petik.in**, a computer-vision-based guitar learning app, and **K-SINI**, an indoor navigation concept for Indonesian railway stations.
-- 💼 I'm open to collaborating on **Data Science, Machine Learning, AI, and iOS projects**.
-- 🌐 Explore my portfolio on my [personal website](https://www.kevin-jo.com).
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/kevin-joseph-handoyo/).
+* 🔭 Currently focusing on **Data Science and Machine Learning**, especially classification, prediction, feature engineering, and model evaluation.
+* 🤖 Experienced with **Python, scikit-learn, Pandas, NumPy, and Jupyter** for data analysis and machine learning.
+* 📱 Developing native iOS applications using **Swift and SwiftUI**.
+* 🧠 Interested in **Computer Vision and On-Device Machine Learning**, particularly integrating ML models into mobile applications with **Core ML**.
+* 🛠️ Interested in building practical systems that combine **data, machine learning, and software development**.
+* 🚀 Always open to collaborating on **Data Science, Machine Learning, AI, and iOS projects**.
+* 🌐 Explore my portfolio on my [personal website](https://www.kevin-jo.com).
+* 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/kevin-joseph-handoyo/).
 
 ---
 
 ### 🧠 Areas of Interest
 
-- Data Science & Data Analytics
-- Machine Learning
-- Computer Vision
-- On-Device Machine Learning
-- Predictive Modeling
-- Feature Engineering
-- Model Evaluation
-- Mobile Machine Learning
-- iOS Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS%20Development-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/On--Device%20ML-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+</p>
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages & Tools
 
 #### Data Science & Machine Learning
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/><br>Pandas
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/><br>NumPy
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/><br>Jupyter
-    </td>
-    <td align="center" width="120">
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn"/><br>Scikit-learn
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/>
+</p>
 
-#### iOS & Machine Learning on Device
+#### iOS & Apple Technologies
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40" alt="Swift"/><br>Swift
-    </td>
-    <td align="center" width="120">
-      SwiftUI
-    </td>
-    <td align="center" width="120">
-      Core ML
-    </td>
-    <td align="center" width="120">
-      Computer Vision
-    </td>
-    <td align="center" width="120">
-      MapKit
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45" height="45" alt="Swift"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="45" height="45" alt="Apple"/>
+  <img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white" height="30" alt="SwiftUI"/>
+  <img src="https://img.shields.io/badge/Core%20ML-000000?style=for-the-badge&logo=apple&logoColor=white" height="30" alt="Core ML"/>
+  <img src="https://img.shields.io/badge/MapKit-000000?style=for-the-badge&logo=apple&logoColor=white" height="30" alt="MapKit"/>
+</p>
 
-#### Development & Data
+#### Programming & Development
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br>Git
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br>MySQL
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br>JavaScript
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br>HTML5
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br>CSS3
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+</p>
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🏠 HoMoold
-An iOS application for detecting potential indoor mold and assessing environmental mold risk.
-
-- Machine Learning classification
-- Indoor environmental data
-- Core ML integration
-- SwiftUI
-- Risk assessment and recommendations
-
-#### 🎸 Petik.in
-An iOS guitar learning application that uses computer vision to help users learn and practice guitar.
-
-- Computer Vision
-- Machine Learning
-- SwiftUI
-- On-device ML
-
-#### 🚉 K-SINI
-An indoor navigation concept designed for Indonesian commuter rail stations.
-
-- Indoor navigation
-- MapKit
-- CoreLocation
-- Dijkstra pathfinding
-- Compass and haptic feedback
-- SwiftUI
-
----
-
-### 📊 GitHub Stats
+### 🔥 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CicakBelanda&theme=dark&background=000000" alt="GitHub Streak"/>
